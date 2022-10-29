@@ -1,5 +1,5 @@
 #PROGRAM TO BUILD A BIODATA
-'''Name = input("enter the Name :")
+Name = input("enter the Name :")
 Cell = input("enter the cell number :")
 Mail = input("enter the Mail Id :")
 Academia = input("enter qualification :")
@@ -25,8 +25,6 @@ print("D.O.B".ljust(20),":",DOB.strip())
 print("Merital Status".ljust(20),":",Meritalstatus.strip())
 print("Language Known".ljust(20),":",language.strip())
 print("Hobbies".ljust(20),":",Hobbies.strip())
-print("Permanent Address".ljust(20),":",Address.strip())'''
+print("Permanent Address".ljust(20),":",Address.strip())
 
 
-x,y,z=["apple","banana","orrange"]
-print(x)
